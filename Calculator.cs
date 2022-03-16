@@ -9,4 +9,9 @@ class Calculator
 	{
 		return a + b;
 	}
+	
+	static void Pengurangan(int a, int b)
+	{
+		return a - b;
+	}
 }
