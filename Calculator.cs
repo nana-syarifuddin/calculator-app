@@ -4,4 +4,9 @@ class Calculator
 	{
 	
 	}
+	
+	static void Penambahan(int a, int b)
+	{
+		return a + b;
+	}
 }
